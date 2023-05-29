@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /*?q=
+Disallow: /*?sort=
+Disallow: /*?limit=
+
+Disallow: /*&q=
+Disallow: /*&sort=
+Disallow: /*&limit=
+Disallow: /app/subscription/list
+Disallow: /app/watchlist
+Disallow: /auth/login
+Disallow: /auth/register
+
+Sitemap: https://sitemap.finanvo.in/finanvo/index.xml
+Sitemap: https://sitemap.mcasearch.in/mcasearch/index.xml
+Sitemap: https://sitemap.web.compdata.in/compdata/index.xml
+Sitemap: https://sitemap.dash.technowire.in/technowire/index.xml
+Sitemap: https://sitemap.mca.likeapp.in/mca.likeapp/index.xml
+Sitemap: https://sitemap.mca.techymojo.in/mca.techymojo/index.xml

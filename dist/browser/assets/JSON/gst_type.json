@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Individual",
+        "code" : "P"
+    },
+    {
+        "name" : "Company",
+        "code" : "C"
+    },
+    {
+        "name" : "Hindu Undivided Family (HUF)",
+        "code" : "H"
+    },
+    {
+        "name" : "Association of Persons (AOP)",
+        "code" : "A"
+    },
+    {
+        "name" : "Body of Individuals (BOI)",
+        "code" : "B"
+    },
+    {
+        "name" : "Government Agency",
+        "code" : "G"
+    },
+    {
+        "name" : "Artificial Juridical Person",
+        "code" : "J"
+    },
+    {
+        "name" : "Local Authority",
+        "code" : "L"
+    },
+    {
+        "name" : "Firm/ Limited Liability Partnership",
+        "code" : "F"
+    },
+    {
+        "name" : "Trust",
+        "code" : "T"
+    }
+]
